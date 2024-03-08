@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Hiran from Brazil 🇧🇷 
+- 👀 I’m interested in: Front-end Software Development.
+- 🌱 I’m currently learning: HTML, CSS, JavaScript, TypeScript, Angular, React JS and Git.
+- 💻 I’m looking to collaborate on: https://br.linkedin.com/company/ernstandyoung
+- 🏢 How to reach me: hiranfb.dev@outlook.com
