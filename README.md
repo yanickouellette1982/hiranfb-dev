@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Hiran from Brazil 🇧🇷 
+- 👋 Hi, I’m canada st jérome qc
 - 👀 I’m interested in: Front-end Software Development.
 - 🌱 I’m currently learning: HTML, CSS, JavaScript, TypeScript, Angular, React JS and Git.
 - 💻 I’m looking to collaborate on: https://br.linkedin.com/company/ernstandyoung
