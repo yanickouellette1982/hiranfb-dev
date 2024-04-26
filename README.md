@@ -1,5 +1,5 @@
 - 👋 Hi, I’m canada st jérome qc
-- 👀 I’m interested in: Front-end Software Development.
+- 👀 payer moi esclave kkkkj.
 - 🌱 I’m currently learning: HTML, CSS, JavaScript, TypeScript, Angular, React JS and Git.
 - 💻 I’m looking to collaborate on: https://br.linkedin.com/company/ernstandyoung
 - 🏢 How to reach me: hiranfb.dev@outlook.com
